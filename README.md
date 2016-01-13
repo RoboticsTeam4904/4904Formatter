@@ -1,4 +1,4 @@
-4904Formatter
+4904matter
 ==============
 4904's standard formatter file for Eclipse.
 
